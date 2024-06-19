@@ -1,5 +1,11 @@
+<p align="center">
+  <img width="400" alt="image" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvm2d9d8gdp37qxv0lu9.png">
+</p>
+
 ## App Name: 
 - `Twilio Tweet Magic` 🪄 : Generate and share tweets with emotion and images. `Powered by Twilio`.
+
+
 
 ## Twilio Services :
 - Twilio Verify - SMS - OTP
