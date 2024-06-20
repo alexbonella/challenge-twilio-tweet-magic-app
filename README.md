@@ -11,6 +11,10 @@
 - Twilio Verify - SMS - OTP
 - Twilio Programmable Messaging *(WhatsApp Sandbox)*
 
+## Hit the Start! ⭐
+
+If you plan to use this image for learning or find this content helpful, please hit the start. Thanks! 🙌🏻
+
 ## Description:
 
 Welcome to TwilioTweetMagic! This app allows you to generate tweets from URLs and feelings, combining the power of natural language processing with the creativity of image generation. Leveraging Twilio's robust messaging service, you can easily send these unique tweets and images directly to WhatsApp. Whether you're looking to share a moment, express a mood, or simply create something fun, TwilioTweetMagic has got you covered.
