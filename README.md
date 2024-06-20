@@ -34,10 +34,10 @@ Welcome to TwilioTweetMagic! This app allows you to generate tweets from URLs an
 
 - [![Go_To Youtube](https://img.shields.io/badge/Go_To-Youtube-red)](https://youtu.be/vrVCNIXE0_0?si=BI_fHkIdps3fZmFD) 
 
-
-
-
 ## OTP Verification 
+
+In today's digital age, verifying user authenticity is crucial, and Twilio Verify ensures that only real users gain access to our app. Once verified, users can effortlessly send their custom tweets and images directly to a WhatsApp number, thanks to Twilio's WhatsApp Sandbox.
+
 
 <p align="center">
   <img src="https://github.com/alexbonella/challenge-twilio-tweet-magic-app/blob/main/media/OTP_App.png?raw=true" alt="Image 1" width="50%" style="vertical-align: top; margin: 10px;">
