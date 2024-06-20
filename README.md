@@ -28,6 +28,16 @@ Welcome to TwilioTweetMagic! This app allows you to generate tweets from URLs an
 
 ## Demo
 
-### OTP Verification 
+- [![Go_To Youtube](https://img.shields.io/badge/Go_To-Youtube-red)](https://youtu.be/vrVCNIXE0_0?si=BI_fHkIdps3fZmFD) 
+
+
+
+
+## OTP Verification 
+
+<p align="center">
+  <img src="https://github.com/alexbonella/challenge-twilio-tweet-magic-app/blob/main/media/OTP_App.png?raw=true" alt="Image 1" width="50%" style="vertical-align: top; margin: 10px;">
+  <img src="https://github.com/alexbonella/challenge-twilio-tweet-magic-app/blob/main/media/otp_sms_little.jpeg?raw=true" alt="Image 2" width="35%" style="vertical-align: top; margin: 10px;">
+</p>
 
 
