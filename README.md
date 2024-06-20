@@ -13,7 +13,7 @@
 
 ## Hit the Start! ⭐
 
-If you plan to use this image for learning or find this content helpful, please hit the start. Thanks! 🙌🏻
+If you plan to use this repo for learning or find this content helpful, please hit the start. Thanks! 🙌🏻
 
 ## Description:
 
