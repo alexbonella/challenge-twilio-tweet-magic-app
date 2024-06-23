@@ -160,7 +160,8 @@ else:
             st.markdown(response.parts[0].text)
 
             # Save Prompt Image in st.session_state
-            st.session_state.new_image_prompt = response.parts[0].text
+            prompt_bedrock = prompt = f"Can you build a realistic image in a futuristic style that captures the dominant {choose_feeling} emotion in this text ? '{response.parts[0].text}' ?"
+            st.session_state.new_image_prompt = prompt_bedrock
             st.session_state.tweet_gen = True
             
         if 'new_image_prompt' in st.session_state:
@@ -290,7 +291,4 @@ else:
         col1.page_link("https://twitter.com/datexland", label="**X**", icon="📝")
 
         image2 = Image.open('media/profile_ai.jpeg')
-        col3.image(image2, width=230)
-    
-    
-     
+        col3.image(image2, width=230)   
